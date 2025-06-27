@@ -47,7 +47,6 @@ const Header = () => {
       justifyContent="space-between"
       w="100%"
       wrap="wrap"
-      justifyContent="center"
     >
       <Link href="/">
         <HStack>

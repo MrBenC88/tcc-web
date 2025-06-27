@@ -32,6 +32,12 @@ const HeroHeader = () => {
             vibrant community for aspiring professionals from diverse
             backgrounds seeking to transform their careers.
           </Text>
+          <Text>
+            Disclaimer: As of June 2025, one of the original co-founders is no
+            longer involved. Tech Career North (formerly Tech Career Change) is
+            now independently managed. The current Discord community and
+            leadership operate separately from the original founding team.
+          </Text>
           <Flex
             width="100%"
             pt="3%"
