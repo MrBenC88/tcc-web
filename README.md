@@ -1,3 +1,10 @@
+# Tech Career Change
+
+This project was originally founded and created by Ben Cheung.
+
+Disclaimer: I originally co-founded Tech Career North (formerly Tech Career Change) and built many of its early resources, including the website, community structure, and guides. As of June 2025, I am no longer involved or affiliated with its leadership, Discord server, or direction. The project is now independently managed. This website remains live as a public resource for those who may find it useful.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
