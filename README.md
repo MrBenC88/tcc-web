@@ -1,5 +1,7 @@
 # Tech Career Change
 
+This was the original Tech Career Change website.
+
 This project was originally founded and created by Ben Cheung.
 
 Disclaimer: I originally co-founded Tech Career North (formerly Tech Career Change) and built many of its early resources, including the website, community structure, and guides. As of June 2025, I am no longer involved or affiliated with its leadership, Discord server, or direction. The project is now independently managed. This website remains live as a public resource for those who may find it useful.
